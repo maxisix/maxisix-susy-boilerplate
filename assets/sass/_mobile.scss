@@ -1,0 +1,30 @@
+/****************************************
+ *  TABLE OF CONTENT
+ *
+ *  1. BASIC STRUCTURE
+ *
+ *  2. HEADER
+ *  3. NAV
+ *  4. MAIN CONTAINER
+ *  5. NEWS CONTAINER
+ *  6. SITE MAP
+ *  7. FOOTER
+ *
+ *  +. RE USABLE // MODULAR MODULE
+ ****************************************/        
+
+
+html, body {
+	background: #fff;
+	font-size: 62.5%; 
+    margin:0;
+    padding:0;
+    border:0;
+	user-select: none;	
+	text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+	color: inherit;
+}
